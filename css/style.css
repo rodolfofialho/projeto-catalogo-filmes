@@ -1,0 +1,12 @@
+body{
+    background: black;
+}
+
+div > h1{
+    text-align: center;
+    color:	#7B68EE;
+}
+
+.cor1{
+    background-color: #7500fa;
+}
